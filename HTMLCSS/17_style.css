@@ -1,0 +1,17 @@
+h1 {
+  font-size: 150px;
+  background-color: rgb(63, 61, 180);
+  color: rgb(0, 204, 255);
+  font-style: italic;
+}
+
+h2 {
+  font-size: 50px;
+  color: rgb(45, 108, 145);
+}
+
+li{
+  color: rgb(55, 121, 53);
+  font-weight: bolder;
+  font-size:20px
+}

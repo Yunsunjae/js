@@ -1,0 +1,27 @@
+a {
+  font-size: 30px;
+  color: rgb(110, 84, 179);
+  line-height: 70px;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 70px;
+  color: rgb(57, 75, 177);
+  background-color: rgb(69, 199, 199);
+}
+
+a:link, a:visited {
+  color: rgb(110, 84, 179);
+}
+
+a:hover {
+  background-color: navy;
+  color: rgb(64, 192, 231);
+  text-decoration: underline;
+}
+
+a:active{
+  background: yellowgreen;
+  color: white;
+}

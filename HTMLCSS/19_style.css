@@ -1,0 +1,21 @@
+h1 {
+  font-size: 70px;
+  background-color: rgb(146, 114, 202);
+  color: rgb(118, 210, 210);
+}
+
+a:link, a:visited {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(36, 112, 198);
+  text-decoration: none;
+}
+
+a:hover {
+  color:rgb(78, 66, 146);
+}
+
+a:active{
+  background-color:dodgerblue;
+  color: cornsilk;
+}
