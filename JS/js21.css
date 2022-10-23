@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(83, 99, 219);
+}
+
+input {
+  width: 50px;
+  height: 20px;
+  background-color: rgb(222, 250, 253);
+}
+
+#btn {
+  width: 80px;
+  height: 40px;
+  background-color: rgb(38, 142, 212);
+  color: white;
+  border: 1px solid black;
+}
+
+#content {
+  width: 300px;
+  background-color: rgb(135, 204, 250);
+  color: black;
+  border-radius: 10px;
+  margin: 50px;
+}
+
+#result {
+  margin: 20px;
+  font-size: 20px;
+}
