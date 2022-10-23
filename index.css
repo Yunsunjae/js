@@ -1,0 +1,43 @@
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: rgb(10, 121, 121);
+}
+
+#ttl {
+  background-color: rgb(219, 239, 62);
+  font-size: 30px;
+  color: rgb(140, 111, 213);
+  font-weight: bolder;
+  border: 0px;
+  width: 380px;
+  border-radius: 10px;
+}
+
+a:link, a:visited {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(40, 96, 152);
+  text-decoration: none;
+}
+
+a:hover {
+  color:rgb(213, 250, 49)
+}
+
+#frame {
+  background-color: rgb(136, 188, 244);
+  border-radius: 15px;
+  width: 400px;
+  margin: auto;
+  border: 0px;
+  padding: 30px;
+}
+
+body {
+  background-color:rgb(255, 255, 255);
+}
+
+img { 
+  padding-left: 30px;
+}
